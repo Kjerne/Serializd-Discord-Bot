@@ -1,0 +1,83 @@
+# ─── Environment & Secrets ────────────────────────────────────────────
+.env
+*.env
+.env.*
+!env.example
+
+# ─── Bot Data & Config ─────────────────────────────────────────────────
+config.json
+seen_entries.json
+
+# ─── Python ────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ─── Virtual Environments ──────────────────────────────────────────────
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# ─── IDEs & Editors ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# ─── Testing & Coverage ────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# ─── Logs ──────────────────────────────────────────────────────────────
+*.log
+logs/
+*.log.*
+
+# ─── Documentation ─────────────────────────────────────────────────────
+docs/_build/
+.ipynb_checkpoints
+
+# ─── OS Generated ──────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ─── Backup Files ──────────────────────────────────────────────────────
+*.bak
+*.backup
+*~
