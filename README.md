@@ -1,3 +1,8 @@
+# Serializd Tracker Bot🤖
+
+[Bot/App Invite Link](https://discord.com/oauth2/authorize?client_id=1476015649775157369)  
+[Support and Help Discord](https://discord.gg/hmrHbWCpcP)
+
 # Serializd Discord Bot 📺
 
 A feature-rich Discord bot that automatically tracks and posts TV show diary entries from [Serializd](https://www.serializd.com/) to your Discord server. Get beautifully formatted embeds whenever you or your friends log new episodes!
