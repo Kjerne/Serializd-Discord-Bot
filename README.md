@@ -2,6 +2,7 @@
 
 [Bot/App Invite Link](https://discord.com/oauth2/authorize?client_id=1476015649775157369)  
 [Support and Help Discord](https://discord.gg/hmrHbWCpcP)
+[Tracker Github Website](https://serializdtrackerbot.github.io/)
 
 # Serializd Discord Bot 📺
 
