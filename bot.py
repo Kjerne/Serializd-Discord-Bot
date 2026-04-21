@@ -67,8 +67,8 @@ SERIALIZD_COLOUR = 0x6C63FF
 START_TIME = datetime.now(timezone.utc)
 
 # ─── API Constants ────────────────────────────────────────────────────────────
-BASE_API = "https://www.serializd.com/api"
-BASE_SHOWS_URL = "https://www.serializd.com/api/user/"
+BASE_API = "https://www.serializd.onrender.com/api"
+BASE_SHOWS_URL = "https://www.serializd.onrender.com/api/user/"
 
 # ─── Bot initialization ───────────────────────────────────────────────────────
 intents = discord.Intents.default()
